@@ -1,13 +1,16 @@
-def new_hash
-
+def new_hash()
+  puts {}
 end
 
-def actor
 
+def actor(Channing Tatum)
+  puts "Hello, my name is {#actor}
 end
 
-def monopoly
-	monopoly = {}
+e
+def actor(Channing Tatum)
+  puts "Hello, my name is {#actor}
+end
 
 end
 
